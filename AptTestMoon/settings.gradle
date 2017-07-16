@@ -1,0 +1,7 @@
+include ':app'
+include ':apt-test-base'
+project(':apt-test-base').projectDir = new File('../apt-test-base')
+include ':apt-test-annotation'
+project(':apt-test-annotation').projectDir = new File('../apt-test-annotation')
+include ':apt-test-loop'
+project(':apt-test-loop').projectDir = new File('../apt-test-loop')

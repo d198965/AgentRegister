@@ -1,0 +1,7 @@
+Image1;com.stk.myagents.ImageViewAgent
+Image2;com.stk.myagents.ImageViewAgent
+Image3;com.stk.myagents.ImageViewAgent
+loop1;com.stk.myagents.LoopAgent
+loop2;com.stk.myagents.LoopAgent
+loop3;com.stk.myagents.LoopAgent
+loop4;com.stk.myagents.LoopAgent
